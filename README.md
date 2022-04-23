@@ -1,4 +1,4 @@
-linkeding clone with react, also i'm using style-components.
+linkedin clone with react, also i'm using style-components.
 if you want run this file install react first and next add this files
 
 ### Design
